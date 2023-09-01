@@ -1,5 +1,4 @@
 ![Xmethod logo](https://uploads-ssl.webflow.com/62f6c539db7f3630ae6919df/64274c226a8fd997e22cda21_xmethod-logo.png) </br></br>
-
 Welcome to the official code repository for the ILC Sirus AI landing page. This repository contains the codebase and animations for our cutting-edge landing page. The ILC Sirus AI landing page showcases the innovative capabilities and features of our service.
 
 ## Features
